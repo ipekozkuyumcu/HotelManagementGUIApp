@@ -7,8 +7,8 @@ This project application is a hotel reservation application, and designed in ord
 
 Team Members:
 
-Ipek Ozkuyumcu
-Orkun Coskun _ https://github.com/OrkunCoskun
+Ipek Ozkuyumcu (Myself)
+Orkun Coskun (https://github.com/OrkunCoskun)
 Elifnur Pamuk
 
 Tasks of team members:
