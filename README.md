@@ -6,13 +6,13 @@ This project application is a hotel reservation application, and designed in ord
 
 Team Members:
 
-Ipek Ozkuyumcu (Myself),
+Ipek Ozkuyumcu (Me),
 Orkun Coskun (https://github.com/OrkunCoskun),
 Elifnur Pamuk
 
 Tasks of team members:
 
-Myself: Welcome Window, Homepage Window, History Window, Internalization, Frontend, Regex, Database
+Me: Welcome Window, Homepage Window, History Window, Internalization, Frontend, Regex, Database
 
 Elifnur: Login Window, Options Window, Internalization, Frontend, Regex, Database
 
